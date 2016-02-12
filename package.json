@@ -28,7 +28,7 @@
   "homepage": "https://github.com/webdriverio/wdio-mocha-framework#readme",
   "dependencies": {
     "mocha": "^2.3.3",
-    "@georgecrawfordft/wdio-sync": ">=0.4.8",
+    "@georgecrawfordft/wdio-sync": ">=0.4.8-0",
     "babel-runtime": "^5.8.25"
   },
   "devDependencies": {
